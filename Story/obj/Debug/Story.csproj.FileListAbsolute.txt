@@ -1,0 +1,7 @@
+C:\Users\marco.antonio\source\repos\Story\obj\Debug\Story.csproj.CoreCompileInputs.cache
+C:\Users\marco.antonio\source\repos\Story\bin\Debug\Story.exe.config
+C:\Users\marco.antonio\source\repos\Story\bin\Debug\Story.exe
+C:\Users\marco.antonio\source\repos\Story\bin\Debug\Story.pdb
+C:\Users\marco.antonio\source\repos\Story\obj\Debug\Story.exe
+C:\Users\marco.antonio\source\repos\Story\obj\Debug\Story.pdb
+C:\Users\marco.antonio\source\repos\Story\obj\Debug\Story.csproj.AssemblyReference.cache

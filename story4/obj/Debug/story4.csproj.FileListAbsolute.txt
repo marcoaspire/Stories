@@ -1,0 +1,6 @@
+C:\Users\marco.antonio\source\repos\story4\bin\Debug\story4.exe.config
+C:\Users\marco.antonio\source\repos\story4\bin\Debug\story4.exe
+C:\Users\marco.antonio\source\repos\story4\bin\Debug\story4.pdb
+C:\Users\marco.antonio\source\repos\story4\obj\Debug\story4.csproj.CoreCompileInputs.cache
+C:\Users\marco.antonio\source\repos\story4\obj\Debug\story4.exe
+C:\Users\marco.antonio\source\repos\story4\obj\Debug\story4.pdb

@@ -1,0 +1,7 @@
+C:\Users\marco.antonio\source\repos\Stories\bin\Debug\Stories.exe.config
+C:\Users\marco.antonio\source\repos\Stories\bin\Debug\Stories.exe
+C:\Users\marco.antonio\source\repos\Stories\bin\Debug\Stories.pdb
+C:\Users\marco.antonio\source\repos\Stories\obj\Debug\Stories.csproj.AssemblyReference.cache
+C:\Users\marco.antonio\source\repos\Stories\obj\Debug\Stories.csproj.CoreCompileInputs.cache
+C:\Users\marco.antonio\source\repos\Stories\obj\Debug\Stories.exe
+C:\Users\marco.antonio\source\repos\Stories\obj\Debug\Stories.pdb
