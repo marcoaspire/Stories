@@ -20,7 +20,7 @@ namespace Story5
                 int number = Int32.Parse(Console.ReadLine());
                 for (int count = 0; count < number; count++)
                 {
-                    story1 = createStory(Console.ReadLine());
+                    story1 = Story.createStory(Console.ReadLine());
                     list.Add(story1);
                 }
                 Console.WriteLine("Enter a type to sort");
@@ -58,15 +58,7 @@ namespace Story5
         }
        
         
-        static Story createStory(String detail)
-        {
-            //This method accepts a String. The story detail separated
-            //by commas is passed as the argument. Split the details and create a story object and returns it.
-            string[] story; 
-            story = detail.Split(',');
-            return new Story(story[0], story[1], story[2], Int32.Parse(story[3]), Int32.Parse(story[4]), Int32.Parse(story[5]));
-
-        }
+        
         
         
     }

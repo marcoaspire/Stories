@@ -49,5 +49,14 @@ namespace Story5
         {
             return String.Format("{0}\t{1}\t{2}\t{3}\t{4}\t{5}", Name,AuthorName,Genre,NoOfChapters,NoOfLikes,  NoOfReads);
         }
+        public static Story createStory(String detail)
+        {
+            //This method accepts a String. The story detail separated
+            //by commas is passed as the argument. Split the details and create a story object and returns it.
+            string[] story;
+            story = detail.Split(',');
+            return new Story(story[0], story[1], story[2], Int32.Parse(story[3]), Int32.Parse(story[4]), Int32.Parse(story[5]));
+
+        }
     }
 }
