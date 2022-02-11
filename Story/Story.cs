@@ -16,6 +16,8 @@ namespace Story
         private int noOfLikes;
         private int noOfReads;
 
+        public Story()
+        { }
         public Story(string name, string authorName, string genre, int noOfChapters, int noOfLikes, int noOfReads)
         {
             this.Name = name;

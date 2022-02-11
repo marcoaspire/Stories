@@ -16,6 +16,8 @@ namespace Story3
         private int noOfLikes;
         private int noOfReads;
 
+        public Story()
+        {}
         public Story(string name, string authorName, string genre, int noOfChapters, int noOfLikes, int noOfReads)
         {
             this.Name = name;
@@ -46,5 +48,23 @@ namespace Story3
                 return false;
 
         }
+
+        public static SortedList<String, int> genreWiseCount(List<Story> list)
+        {
+            SortedList<String, int> n = new SortedList<String, int>();
+            foreach (Story item in list)
+            {
+                if (n.ContainsKey(item.Genre))
+                {
+                    n[item.Genre]++;
+
+                }
+                else
+                    n.Add(item.Genre, 1);
+            }
+            return n;
+
+        }
+
     }
 }
